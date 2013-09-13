@@ -6,10 +6,12 @@ require 'funnycar/version'
 Gem::Specification.new do |spec|
   spec.name          = "funnycar"
   spec.version       = Funnycar::VERSION
-  spec.authors       = ["pieflicker"]
-  spec.email         = ["nesbitt.greg@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.authors       = ["Greg "]
+  spec.email         = ["pieflicker@gmail.com"]
+  spec.summary       = %q{A Rack-based Web Framework}
+  spec.description   = %q{A Rack-based Web Framework, 
+  but with at least one bad pun.}
+  
   spec.homepage      = ""
   spec.license       = "MIT"
 
